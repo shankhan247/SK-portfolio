@@ -1,0 +1,16 @@
+---
+title: Ice Cube Simulation
+subtitle: Simulating the trajectory of an ice cube on a conveyer belt
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: ice.png
+thumbnail: ice.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: The dynamics of an ice cube sliding on a coveyer belt and landing on the ground was simulated in Python using the Google Collaboratory application. The simulation was fabricated by manually computing Euler Lagrange equations to determine the trajectories for each phase of the simulation. <p>For more information please visit this <a href="https://colab.research.google.com/drive/1OJp-ePLLo8d5nVfkH4yrvNtUJW2QvQ5A">link</a> for more information and access to the source code.</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/UnPVaJ0BL34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+

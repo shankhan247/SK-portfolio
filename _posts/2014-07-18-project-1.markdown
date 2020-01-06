@@ -1,0 +1,15 @@
+---
+title: The Mighty Sawyer
+subtitle: A robot that plays cornhole
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: Sawyer.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: A recreational Sawyer robot that plays cornhole against a human opponent. <p>Visit this <a href="https://github.com/ME495-EmbeddedSystems/the-mighty-sawyer">github page </a>for more information</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/c6OfZ5SSrWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+

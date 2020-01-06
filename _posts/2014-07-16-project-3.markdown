@@ -1,0 +1,15 @@
+---
+title: youBot Mobile Manipulator
+subtitle: Simulating a moblile manipulator robot
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: youBot.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: A simulated youBot mobile manipulator from KUKA was programmed to plan and follow a desired trajectory which entailed picking up a cube from its initial configuration and delivering it to its final configuration. The software application V-REP simulator was used to load a simulated scene of the youBot and cube and data in the form of CSV files were fed into the application to visualize the trajectory. <p>Please visit this <a href="https://github.com/shankhan247/youBot-Manipulator.git">github page </a>for more information and access to the source code</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/BBtqRG96l44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
