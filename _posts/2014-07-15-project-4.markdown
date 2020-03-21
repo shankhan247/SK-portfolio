@@ -1,0 +1,15 @@
+---
+title: Spiked Leg Harness
+subtitle: Wearable fashion tech
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: dreams.png
+thumbnail: quill.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Inspired by fashion-tech engineer Anouk Wipprecht and anthropologist Edward T Hall, this project is an avante-garde wearable fashion tech device that is meant to bridge the gap between STEM and the creative arts. The device is a leg harness with spikes or quills extruding outward and able to detect incoming objects and move accordingly. This project is meant to redefine the user's social space by giving the user the freedom and power to control his/her surrounding environment.   <p>Visit this <a href="https://github.com/shankhan247/Winter-Project-2020">github page </a> to find the source code, circuit diagrams, and in depth information about the project. Visit this <a href="https://github.com/shankhan247/Winter_Project_2020_CAD">github page </a>to access the 3d printed/CAD files.</p> <p> Note:this project is in its final stages of completion (delayed due to lockdown of virus). A demo video will be recorded and uploaded soon. </p>
+---
+
